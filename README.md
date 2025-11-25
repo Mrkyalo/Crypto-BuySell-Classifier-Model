@@ -8,7 +8,7 @@ The goal is to create a fully functioning ML system that:
 -   Trains a classification model
 -   Evaluates performance and backtests strategy
 -   Serializes the trained model
--   Deploys prediction logic (optional)
+-   Deploys prediction logic
 
 This is a realistic applied-finance ML workflow similar to what quant
 researchers build.
