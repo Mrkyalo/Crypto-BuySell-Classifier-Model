@@ -12,3 +12,5 @@ The goal is to create a fully functioning ML system that:
 
 This is a realistic applied-finance ML workflow similar to what quant
 researchers build.
+
+Data source:Binance API
