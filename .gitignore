@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+mlenv/
+
+# IDE / editor settings
+.vscode/
+*.code-workspace
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (ignore all data to keep repo small)
+data/
+*.csv
+*.json
+*.db
+
+# Models (ignore all trained models)
+models/
+*.h5
+*.pkl
+*.joblib
+*.sav
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+# Ignore virtual environments
+myenv/
+*.pyc
+__pycache__/
+
+# Ignore site-packages and other library files
+myenv/Lib/
+myenv/Include/
+myenv/Scripts/
+
+# Ignore VS Code settings and system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+myenv/
+# Ignore virtual environment
+myenv/
+__pycache__/
+*.pyc
+
+# Ignore VS Code settings
+.vscode/
